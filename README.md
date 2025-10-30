@@ -16,11 +16,12 @@ A real-time incident monitoring dashboard built with React, Redux Toolkit, and W
 ## Architecture
 
 This project follows a **feature-based monolithic architecture** with:
+
 - Clean separation of UI, state, and business logic
 - Framework-agnostic services
 - Micro-frontend ready structure
 
-See `monolithic.md` for detailed architecture documentation.
+See `README.md` for detailed architecture and setup documentation.
 
 ## Getting Started
 
@@ -93,4 +94,3 @@ The dashboard expects WebSocket messages in the following format:
 ## License
 
 MIT
-
