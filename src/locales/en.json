@@ -1,0 +1,57 @@
+{
+  "app": {
+    "title": "Incident Management Dashboard",
+    "subtitle": "Real-time incident monitoring"
+  },
+  "incidents": {
+    "title": "Incidents",
+    "loading": "Loading incidents...",
+    "noIncidents": "No incidents found",
+    "noIncidentsDescription": "There are no incidents matching your filters",
+    "total": "Total Incidents",
+    "summary": "Incident Summary",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "offline": "Offline",
+    "refresh": "Refresh",
+    "viewDetails": "View Details",
+    "service": "Service",
+    "justNow": "Just now",
+    "minutesAgo": "{{count}} minute ago",
+    "minutesAgo_other": "{{count}} minutes ago",
+    "hoursAgo": "{{count}} hour ago",
+    "hoursAgo_other": "{{count}} hours ago",
+    "daysAgo": "{{count}} day ago",
+    "daysAgo_other": "{{count}} days ago",
+    "severity": {
+      "critical": "Critical",
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low"
+    },
+    "status": {
+      "open": "Open",
+      "investigating": "Investigating",
+      "resolved": "Resolved"
+    },
+    "filters": {
+      "title": "Filters",
+      "search": "Search",
+      "searchPlaceholder": "Search by title, description, or service...",
+      "severity": "Severity",
+      "status": "Status",
+      "service": "Service",
+      "all": "All",
+      "allServices": "All Services",
+      "clearAll": "Clear All",
+      "critical": "Critical",
+      "high": "High",
+      "medium": "Medium",
+      "low": "Low",
+      "open": "Open",
+      "investigating": "Investigating",
+      "resolved": "Resolved"
+    }
+  }
+}
+

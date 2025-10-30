@@ -1,0 +1,57 @@
+{
+  "app": {
+    "title": "Tableau de bord de gestion des incidents",
+    "subtitle": "Surveillance des incidents en temps réel"
+  },
+  "incidents": {
+    "title": "Incidents",
+    "loading": "Chargement des incidents...",
+    "noIncidents": "Aucun incident trouvé",
+    "noIncidentsDescription": "Il n'y a aucun incident correspondant à vos filtres",
+    "total": "Total des incidents",
+    "summary": "Résumé des incidents",
+    "connected": "Connecté",
+    "disconnected": "Déconnecté",
+    "offline": "Hors ligne",
+    "refresh": "Actualiser",
+    "viewDetails": "Voir les détails",
+    "service": "Service",
+    "justNow": "À l'instant",
+    "minutesAgo": "Il y a {{count}} minute",
+    "minutesAgo_other": "Il y a {{count}} minutes",
+    "hoursAgo": "Il y a {{count}} heure",
+    "hoursAgo_other": "Il y a {{count}} heures",
+    "daysAgo": "Il y a {{count}} jour",
+    "daysAgo_other": "Il y a {{count}} jours",
+    "severity": {
+      "critical": "Critique",
+      "high": "Élevée",
+      "medium": "Moyenne",
+      "low": "Faible"
+    },
+    "status": {
+      "open": "Ouvert",
+      "investigating": "En cours",
+      "resolved": "Résolu"
+    },
+    "filters": {
+      "title": "Filtres",
+      "search": "Rechercher",
+      "searchPlaceholder": "Rechercher par titre, description ou service...",
+      "severity": "Gravité",
+      "status": "Statut",
+      "service": "Service",
+      "all": "Tous",
+      "allServices": "Tous les services",
+      "clearAll": "Tout effacer",
+      "critical": "Critique",
+      "high": "Élevée",
+      "medium": "Moyenne",
+      "low": "Faible",
+      "open": "Ouvert",
+      "investigating": "En cours",
+      "resolved": "Résolu"
+    }
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+  "name": "incident-dashboard-mock-server",
+  "version": "1.0.0",
+  "description": "Mock WebSocket + REST API server for testing",
+  "type": "module",
+  "main": "mock-server.js",
+  "scripts": {
+    "start": "node mock-server.js",
+    "dev": "node --watch mock-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2",
+    "cors": "^2.8.5"
+  }
+}
